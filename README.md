@@ -1,5 +1,5 @@
 # PROA-Music
-O que você ouve, na verdade é que o você é.
+
 ![O que você ouve, na verdade é que o você é](https://user-images.githubusercontent.com/104120168/190834365-eca58052-fe45-496b-9781-e7dc5f6c3910.jpg)
 <h1 align="center">
     <a href="https://pt-br.reactjs.org/">🔗PROA MUSIC</a>
